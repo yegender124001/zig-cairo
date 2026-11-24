@@ -1,5 +1,5 @@
 .{
-    .name = .my_project,
+    .name = .cairo,
     .fingerprint = 0xa54a7cc2459f4a4e,
     .version = "0.1.0",
     .minimum_zig_version = "0.17.0",
