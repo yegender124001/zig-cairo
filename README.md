@@ -1,3 +1,5 @@
+## It's AI generated completely
+
 # zig-cairo
 
 Zig bindings for Cairo's core drawing API, SVG surfaces, and Pango text layout.
